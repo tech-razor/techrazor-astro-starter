@@ -28,6 +28,12 @@ npm i
 └── tsconfig.json
 ```
 
+## Node environment
+
+Consider installing [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating) to be able to install multiple versions of `Node` on to your device and to easily switch between the different versions.
+
+The currently active long-term stable (LTS) version of `Node` is version `20`. For `Astro 4.6` and higher, ensure you have at least version `18.17.1`.
+
 ## IDE setup
 
 If using [Visual Studio Code](https://code.visualstudio.com/), ensure that the [Astro](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode), [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extensions are installed.
@@ -55,6 +61,10 @@ In addition, add the following to the user or workspace [settings](https://code.
 ```
 
 See the [Editor Setup](https://docs.astro.build/en/editor-setup/) section in the offical Astro documentation for information on other IDEs.
+
+## IDE colour theme
+
+Our official [theme](https://marketplace.visualstudio.com/items?itemName=tech-razor.techrazor-pro-theme) extension for Visual Studio Code is available to install for free.
 
 ## Scripts
 
